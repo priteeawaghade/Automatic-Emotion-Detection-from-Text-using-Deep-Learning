@@ -1,0 +1,2 @@
+# Automatic-Emotion-Detection-from-Text-using-Deep-Learning
+Automatic Emotion Detection from Text is a Natural Language Processing (NLP) based deep learning project that identifies the dominant emotional state expressed in written text. The system analyzes user-provided text such as chat messages, tweets, emails, or reviews and predicts the emotion conveyed by the author along with a confidence score.
